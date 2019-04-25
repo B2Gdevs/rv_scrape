@@ -1,0 +1,7 @@
+listing_url_attr: href
+listing_url_selector: 'div.unitInnerHeader div a'
+listings_per_page: 25
+save_dir: 'crestview_buda'
+save_path: ../images
+total_css_selector: ".total-units"
+url: 'https://www.crestviewrv.com/buda-rvs-for-sale'

@@ -6,9 +6,6 @@ import pickle
 from yaml import Loader, Dumper, load, dump
 
 
-save_path = "C:\\Users\\jungl\\OneDrive\\Desktop\\rv_data\\images"
-
-
 def load_yaml(file_name="rv_config.yaml"):
     """
     Load yaml config file for RV Scraping.
